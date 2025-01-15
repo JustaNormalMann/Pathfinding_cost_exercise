@@ -67,7 +67,7 @@ A simple step by step guide on how to run the code
 (considering the user already has python 3.12 or higher
 with an IDE):
 1. Ensure that the given packages which are used in this
-   program is downloaded. <br>If not, then use "requirements.txt"
+   program are downloaded. <br>If not, then use "requirements.txt"
    to download them<br>
    (a) Open the terminal <br>
    (b) Navigate to the projects directory <br>
