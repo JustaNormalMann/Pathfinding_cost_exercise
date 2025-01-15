@@ -63,9 +63,9 @@ following list:
  
 
 # How to run the program
-A simple step by step by on how to run the code 
+A simple step by step guide on how to run the code 
 (considering the user already has python 3.12 or higher
-with an IDE downloaded):
+with an IDE):
 1. Ensure that the given packages which are used in this
    program is downloaded. <br>If not, then use "requirements.txt"
    to download them<br>
